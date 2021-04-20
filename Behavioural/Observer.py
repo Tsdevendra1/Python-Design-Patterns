@@ -7,6 +7,7 @@ Words:
     Subject -> The class that updates the observers
     Observer -> The class that wants to be notified
 """
+from __future__ import annotations
 from abc import ABC, abstractmethod
 
 
