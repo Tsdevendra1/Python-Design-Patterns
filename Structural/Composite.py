@@ -1,5 +1,5 @@
 """
-Why: You have a tree structure and you want a nice interface to iterate over all the elements of that tree
+Why: You have a tree structure and you want to be able to use leaf and non leaf nodes with the same interface.
 
 Words:
     Composite -> Part of the tree that can hold child leafs
