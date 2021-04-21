@@ -26,7 +26,6 @@ class ComponentInterface(ABC):
     def do_some_operation(self) -> str:
         pass
 
-
     # Use this to check whether you can use the add/remove operations
     @abstractmethod
     def is_composite(self) -> bool:
